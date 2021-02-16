@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles/reset.scss"],"names":[],"mappings":"AAAA,EACE,qBAAsB,CAKvB,WADC,QAOgB,CANjB,MAKC,SAAU,CACV,eAAgB,CACjB,OAGC,QAAS","file":"main.9093ccf3.chunk.css","sourcesContent":["* {\n  box-sizing: border-box;\n}\n\nbody {\n  margin: 0;\n}\n\nul,\nol {\n  margin: 0;\n  padding: 0;\n  list-style: none;\n}\n\nbutton {\n  border: 0;\n}\n"]}
