@@ -1,0 +1,53 @@
+{
+  "books": [
+    {
+      "id": "0",
+      "name": "A Game of Thrones",
+      "year": "1996",
+      "image": "0.jpg",
+      "pages": "694"
+    },
+    {
+      "id": "1",
+      "name": "A Clash of Kings",
+      "year": "1998",
+      "image": "1.jpg",
+      "pages": "761"
+    },
+    {
+      "id": "2",
+      "name": "A Storm of Swords",
+      "year": "2000",
+      "image": "2.jpg",
+      "pages": "973"
+    },
+    {
+      "id": "3",
+      "name": "A Feast for Crows",
+      "year": "2005",
+      "image": "3.jpg",
+      "pages": "753"
+    },
+    {
+      "id": "4",
+      "name": "A Dance with Dragons",
+      "year": "2011",
+      "image": "4.jpg",
+      "pages": "1016"
+    },
+    {
+      "id": "5",
+      "name": "The Winds of Winter",
+      "year": "-",
+      "image": "blank.jpg",
+      "pages": "-"
+    },
+    {
+      "id": "6",
+      "name": "A Dream of Spring",
+      "year": "-",
+      "image": "blank.jpg",
+      "pages": "-"
+    }
+  ]
+}
