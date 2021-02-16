@@ -1,4 +1,4 @@
-# [Demo link](https://dtsehelnyk.github.io/datawiz-test)
+# [Demo link](https://dtsehelnyk.github.io/react-datawiz)
 
 Also you should change homepage property in package.json file.
 
